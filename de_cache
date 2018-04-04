@@ -1,0 +1,351 @@
+<id>1</id>
+<name>Pipes to Truck</name>
+<grenade>smokegrenade</grenade>
+<description>RUN</description>
+<player_x>1319.97</player_x>
+<player_y>16.3</player_y>
+<player_z>1843.31</player_z>
+<view_x>-42.3969</view_x>
+<view_y>-169.734</view_y>
+<id>2</id>
+<name>Corner to Vents</name>
+<grenade>smokegrenade</grenade>
+<description>JUMP</description>
+<player_x>-996.969</player_x>
+<player_y>1440.25</player_y>
+<player_z>1755.18</player_z>
+<view_x>-12.7729</view_x>
+<view_y>-47.0075</view_y>
+<id>3</id>
+<name>Corner to Middle</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1711.97</player_x>
+<player_y>463.985</player_y>
+<player_z>1678.09</player_z>
+<view_x>-10.9659</view_x>
+<view_y>-168.115</view_y>
+<id>4</id>
+<name>Ledge to CT B Site Entry</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>960.024</player_x>
+<player_y>-1463.97</player_y>
+<player_z>1708.09</player_z>
+<view_x>-26.7658</view_x>
+<view_y>163.004</view_y>
+<id>5</id>
+<name>Corner to B Main Entry</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-617.969</player_x>
+<player_y>-764.992</player_y>
+<player_z>1860.09</player_z>
+<view_x>16.0109</view_x>
+<view_y>8.17949</view_y>
+<id>6</id>
+<name>Wood Panels to Highway</name>
+<grenade>smokegrenade</grenade>
+<description>JUMP</description>
+<player_x>1810.82</player_x>
+<player_y>865.999</player_y>
+<player_z>1740.91</player_z>
+<view_x>-43.0693</view_x>
+<view_y>176.759</view_y>
+<id>7</id>
+<name>Corner to Quad</name>
+<grenade>smokegrenade</grenade>
+<description>JUMP</description>
+<player_x>1037.04</player_x>
+<player_y>513.031</player_y>
+<player_z>1677.55</player_z>
+<view_x>-51.5995</view_x>
+<view_y>127.211</view_y>
+<id>8</id>
+<name>Skull to Quad</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1319.91</player_x>
+<player_y>1412.39</player_y>
+<player_z>1765.09</player_z>
+<view_x>-55.3814</view_x>
+<view_y>155.922</view_y>
+<id>9</id>
+<name>Corner to Quad or Forklift</name>
+<grenade>smokegrenade</grenade>
+<description>JUMP</description>
+<player_x>1037</player_x>
+<player_y>5.3</player_y>
+<player_z>1677.55</player_z>
+<view_x>-44.6378</view_x>
+<view_y>112.031</view_y>
+<id>10</id>
+<name>Corner to Generator/Headglitch</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>827.972</player_x>
+<player_y>-1463.99</player_y>
+<player_z>1678.09</player_z>
+<view_x>-27.7322</view_x>
+<view_y>163.046</view_y>
+<id>11</id>
+<name>Fence to B Site</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>730.498</player_x>
+<player_y>-1463.97</player_y>
+<player_z>1678.09</player_z>
+<view_x>-30.8836</view_x>
+<view_y>161.23</view_y>
+<id>12</id>
+<name>Corner to Site/Truck</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1230.76</player_x>
+<player_y>1612.99</player_y>
+<player_z>1765.97</player_z>
+<view_x>-61.6002</view_x>
+<view_y>-176.367</view_y>
+<id>13</id>
+<name>Wall to Checkers</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>867.828</player_x>
+<player_y>-872.001</player_y>
+<player_z>1678.09</player_z>
+<view_x>-12.7307</view_x>
+<view_y>177.898</view_y>
+<id>14</id>
+<name>Corner to B Halls/B Main</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-461.031</player_x>
+<player_y>-764.969</player_y>
+<player_z>1860.09</player_z>
+<view_x>-0.881099</view_x>
+<view_y>35.3519</view_y>
+<id>15</id>
+<name>Quad to A Main</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-429.995</player_x>
+<player_y>2261.97</player_y>
+<player_z>1782.09</player_z>
+<view_x>-1.91188</view_x>
+<view_y>-29.8103</view_y>
+<id>16</id>
+<name>Garage to Right Side of Mid</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1711.97</player_x>
+<player_y>-71.9688</player_y>
+<player_z>1678.09</player_z>
+<view_x>-10.6392</view_x>
+<view_y>160.819</view_y>
+<id>17</id>
+<name>Vent to Z</name>
+<grenade>hegrenade</name>
+<description>JUMP</description>
+<player_x>605.031</player_x>
+<player_y>-149.969</player_y>
+<player_z>1753.04</player_z>
+<view_x>15.5562</view_x>
+<view_y>168.976</view_y>
+<id>18</id>
+<name>Quad Corner to A Main</name>
+<grenade>flashbang</grenade>
+<description>NORMAL</description>
+<player_x>89.9688</player_x>
+<player_y>2244.71</player_y>
+<player_z>1751.09</player_z>
+<view_x>-56.0545</view_x>
+<view_y>-92.0815</view_y>
+<id>19</id>
+<name>Checkers to Vent</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>-411.969</player_x>
+<player_y>-418.969</player_y>
+<player_z>1678.09</player_z>
+<view_x>-18.9595</view_x>
+<view_y>8.87426</view_y>
+<id>20</id>
+<name>Checkers to B Hall</name>
+<grenade>flashbang</grenade>
+<description>NORMAL</description>
+<player_x>-45.6796</player_x>
+<player_y>-418.969</player_y>
+<player_z>1678.09</player_z>
+<view_x>-20.5039</view_x>
+<view_y>45.5835</view_y>
+<id>21</id>
+<name>Vent to Under Vent</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>568.969</player_x>
+<player_y>-164.64</player_y>
+<player_z>1812.09</player_z>
+<view_x>4.08768</view_x>
+<view_y>-130.003</view_y>
+<id>22</id>
+<name>Flash Room to Back Site</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>730.243</player_x>
+<player_y>-1463.97</player_y>
+<player_z>1678.09</player_z>
+<view_x>-28.4482</view_x>
+<view_y>148.102</view_y>
+<id>23</id>
+<name>Flash Room to Default</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>960.007</player_x>
+<player_y>-1463.97</player_y>
+<player_z>1708.09</player_z>
+<view_x>-24.8676</view_x>
+<view_y>171.447</view_y>
+<id>24</id>
+<name>Back Site to Heaven</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>204.969</player_x>
+<player_y>-1458.97</player_y>
+<player_z>1723.09</player_z>
+<view_x>-17.2942</view_x>
+<view_y>128.952</view_y>
+<id>25</id>
+<name>Back Site to Heaven</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>204.969</player_x>
+<player_y>-1458.98</player_y>
+<player_z>1723.09</player_z>
+<view_x>-17.9179</view_x>
+<view_y>131.368</view_y>
+<id>26</id>
+<name>Heaven to Back Site</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>-530.345</player_x>
+<player_y>-528.969</player_y>
+<player_z>1795.46</player_z>
+<view_x>-11.8888</view_x>
+<view_y>-62.3155</view_y>
+<id>27</id>
+<name>T Spawn Truck to Z</name>
+<grenade>smokegrenade</grenade>
+<description>JUMP</description>
+<player_x>1776.27</player_x>
+<player_y>867.486</player_y>
+<player_z>1682.35</player_z>
+<view_x>-17.6866</view_x>
+<view_y>-156.009</view_y>
+<id>28</id>
+<name>Boost to Z</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1018.02</player_x>
+<player_y>593.727</player_y>
+<player_z>17.3</player_z>
+<view_x>-10.5544</view_x>
+<view_y>-157.868</view_y>
+<id>29</id>
+<name>Back Site to CT</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>204.969</player_x>
+<player_y>-1458.97</player_y>
+<player_z>1723.09</player_z>
+<view_x>-54.5868</view_x>
+<view_y>138.486</view_y>
+<id>30</id>
+<name>B Hall to CT</name>
+<grenade>smokegrenade</grenade>
+<description>RUN</description>
+<player_x>376.41</player_x>
+<player_y>-819.089</player_y>
+<player_z>1678.09</player_z>
+<view_x>-14.6233</view_x>
+<view_y>137.173</view_y>
+<id>31</id>
+<name>B Hall to Heaven</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>272.8</player_x>
+<player_y>-748.421</player_y>
+<player_z>1660.08</player_z>
+<view_x>-41.5909</view_x>
+<view_y>137.173</view_y>
+<id>32</id>
+<name>Z to Garage</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-342.053</player_x>
+<player_y>45.9688</player_y>
+<player_z>1727.09</player_z>
+<view_x>-1.16919</view_x>
+<view_y>10.8463</view_y>
+<id>33</id>
+<name>T Spawn Truck to Mid Box</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1880.82</player_x>
+<player_y>615.969</player_y>
+<player_z>1709.24</player_z>
+<view_x>-31.1609</view_x>
+<view_y>-174.506</view_y>
+<id>34</id>
+<name>Long A to A Balcony</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1319.99</player_x>
+<player_y>1339.23</player_y>
+<player_z>1765.09</player_z>
+<view_x>-60.6583</view_x>
+<view_y>-178.654</view_y>
+<id>35</id>
+<name>Long A to Highway Side of A</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1320</player_x>
+<player_y>1612.98</player_y>
+<player_z>1843.31</player_z>
+<view_x>-49.9069</view_x>
+<view_y>-174.262</view_y>
+<id>36</id>
+<name>Garage to Sandbags</name>
+<grenade>molotov</grenade>
+<description>NORMAL</description>
+<player_x>833.031</player_x>
+<player_y>326.987</player_y>
+<player_z>1678.09</player_z>
+<view_x>-16.5419</view_x>
+<view_y>-151.03</view_y>
+<id>37</id>
+<name>Garage to Mid</name>
+<grenade>flashbang</grenade>
+<description>NORMAL</description>
+<player_x>1762.03</player_x>
+<player_y>318.361</player_y>
+<player_z>1678.03</player_z>
+<view_x>-11.1988</view_x>
+<view_y>-176.684</view_y>
+<id>38</id>
+<name>B Hall to B Main</name>
+<grenade>flashbang</grenade>
+<description>NORMAL</description>
+<player_x>956.565</player_x>
+<player_y>-11.4</player_y>
+<player_z>1678.09</player_z>
+<view_x>-12.6838</view_x>
+<view_y>144.284</view_y>
+<id>39</id>
+<name>Under Vent to Vent (Oneway)</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>425.969</player_x>
+<player_y>-418.969</player_y>
+<player_z>1678.09</player_z>
+<view_x>-20.1979</view_x>
+<view_y>83.6428</view_y>

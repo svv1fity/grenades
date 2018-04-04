@@ -1,0 +1,162 @@
+<id>127</id>
+<name>None</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-656.03</player_x>
+<player_y>457.27</player_y>
+<player_z>32.75</player_z>
+<view_x>-42.47</view_x>
+<view_y>1.09</view_y>
+<id>128</id>
+<name>Smoke Spools B Plant</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>110.84</player_x>
+<player_y>1569.61</player_y>
+<player_z>196.08</player_z>
+<view_x>-44.68</view_x>
+<view_y>76.83</view_y>
+<id>129</id>
+<name>Smoke CT on B Plant</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>416.48</player_x>
+<player_y>1768.7</player_y>
+<player_z>192.65</player_z>
+<view_x>-48.07</view_x>
+<view_y>65.35</view_y>
+<id>130</id>
+<name>Fnatic Smoke B Plant</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>-79.45</player_x>
+<player_y>1330.01</player_y>
+<player_z>170.77</player_z>
+<view_x>-36.52</view_x>
+<view_y>66.62</view_y>
+<id>131</id>
+<name>Fnatic Smoke 2 B Plant Grill</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>460.45</player_x>
+<player_y>1828.48</player_y>
+<player_z>200.18</player_z>
+<view_x>-22.66</view_x>
+<view_y>81.85</view_y>
+<id>132</id>
+<name>Smoke Long</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>209.97</player_x>
+<player_y>436.03</player_y>
+<player_z>134.29</player_z>
+<view_x>-29.87</view_x>
+<view_y>10.53</view_y>
+<id>133</id>
+<name>Smoke Balcony</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>684.19</player_x>
+<player_y>11.97</player_y>
+<player_z>152.09</player_z>
+<view_x>-51.75</view_x>
+<view_y>-11.65</view_y>
+<id>134</id>
+<name>Smoke Back Pit</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>726.01</player_x>
+<player_y>276.27</player_y>
+<player_z>160.09</player_z>
+<view_x>-54.28</view_x>
+<view_y>-12.73</view_y>
+<id>135</id>
+<name>Smoke Front Pit</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>726.19</player_x>
+<player_y>220.55</player_y>
+<player_z>158.07</player_z>
+<view_x>-55.38</view_x>
+<view_y>-9.38</view_y>
+<id>136</id>
+<name>Smoke Long</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>726.01</player_x>
+<player_y>247.71</player_y>
+<player_z>155.66</player_z>
+<view_x>-27.38</view_x>
+<view_y>41.46</view_y>
+<id>137</id>
+<name>Smoke Minipit</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>941.91</player_x>
+<player_y>415.63</player_y>
+<player_z>152.53</player_z>
+<view_x>-51.03</view_x>
+<view_y>13.23</view_y>
+<id>138</id>
+<name>Smoke Short</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>721.26</player_x>
+<player_y>49.05</player_y>
+<player_z>158.28</player_z>
+<view_x>-36.35</view_x>
+<view_y>55.47</view_y>
+<id>139</id>
+<name>Smoke Archway</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>726.08</player_x>
+<player_y>185.97</player_y>
+<player_z>161.53</player_z>
+<view_x>-43.38</view_x>
+<view_y>46.06</view_y>
+<id>140</id>
+<name>Smoke Library</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>964.4</player_x>
+<player_y>4.4</player_y>
+<player_z>152.14</player_z>
+<view_x>-49.38</view_x>
+<view_y>29.32</view_y>
+<id>141</id>
+<name>Smoke Balcony</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1937.59</player_x>
+<player_y>1225.84</player_y>
+<player_z>238.09</player_z>
+<view_x>-45.75</view_x>
+<view_y>-87.01</view_y>
+<id>142</id>
+<name>Smoke Deep Long</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>941.98</player_x>
+<player_y>415.87</player_y>
+<player_z>152.53</player_z>
+<view_x>-47.68</view_x>
+<view_y>39.04</view_y>
+<id>143</id>
+<name>Smoke Mid B Retake</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1971.48</player_x>
+<player_y>2636.78</player_y>
+<player_z>192.09</player_z>
+<view_x>-40.03</view_x>
+<view_y>175.94</view_y>
+<id>144</id>
+<name>Smoke Construction Retake</name>
+<grenade>smokegrenade</grenade>
+<description>NORMAL</description>
+<player_x>1899.34</player_x>
+<player_y>2616.9</player_y>
+<player_z>313.65</player_z>
+<view_x>-37.61</view_x>
+<view_y>158.63</view_y>
